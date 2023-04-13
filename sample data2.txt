@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"X-ray technology has been around for over a century and has revolutionized the medical industry in many ways. One of the most significant breakthroughs in recent years is the development of X-ray body scanning technology. ","photo":"https://iili.io/HvA97fa.webp"},
+  {"title":"tips pack 2","desc":"In many ways, X-ray technology, which has been around for more than a century, has transformed the medical sector. The creation of X-ray body scanning technology is one of the most important developments in recent years.","photo":"https://iili.io/HvA9ux1.jpg"},
+  {"title":"how to use this app 3","desc":"This cutting-edge application is now being used in many medical facilities around the world to diagnose and treat a wide range of conditions.","photo":"https://iili.io/HvA9IDP.jpg"},
+  {"title":"advice mod 4","desc":"This state-of-the-art program is currently being utilized in numerous healthcare facilities across the globe to detect and treat a variety of illnesses.","photo":"https://iili.io/HvA9zOB.jpg"},
+  {"title":"advance pack 5","desc":"X-ray body scanning technology involves using X-rays to create detailed images of the body's internal structures. The images are produced by passing X-rays through the body and detecting the radiation that is absorbed or scattered by different tissues.","photo":"https://iili.io/HvA9AWF.jpg"},
+  {"title":"helper mod 6","desc":"Using X-rays to produce finely detailed photographs of the body's internal architecture is known as X-ray body scanning technology. Images are created by exposing the body to X-rays and observing how the radiation is absorbed or scattered by various tissues.","photo":"https://iili.io/HvA9Rig.jpg"},
+  {"title":"tips pack 7","desc":"Using X-rays to produce finely detailed photographs of the body's internal architecture is known as X-ray body scanning technology. Images are created by exposing the body to X-rays and observing how the radiation is absorbed or scattered by various tissues.","photo":"https://iili.io/HvA9aUv.webp"},
+  {"title":"advice mod 8","desc":"The bones, organs, and other internal parts of the body can all be seen in these photos.","photo":"https://iili.io/HvA9Y0J.jpg"}
 
    ]
  
